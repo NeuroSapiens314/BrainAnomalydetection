@@ -1,0 +1,14 @@
+numpy>=1.21.0
+torch>=1.9.0
+torchvision>=0.10.0
+pydicom>=2.3.0
+opencv-python>=4.5.0
+pillow>=8.3.0
+scikit-learn>=0.24.0
+matplotlib>=3.4.0
+SimpleITK
+tensorflow==2.15
+keras==2.15
+torchio
+albumentations
+pandas 
